@@ -4,7 +4,7 @@ export const projects = [
     title: "Multi-Agent Movie Recommendation System",
     category: "Agentic AI, Machine Learning",
     to: "/",
-    img: "/public/P2.webp",
+    img: "/img-breast-cancer.avif",
   },
   {
     id: 2,
